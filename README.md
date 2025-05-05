@@ -24,3 +24,10 @@ Esta extensión para **PocketBase**, escrita en **Go**, funciona como una capa i
 - Custom PocketBase Extensions  
 - Role-based access control
 
+---
+
+## Para correr el proyecto
+go mod tidy
+go run main.go serve
+
+
