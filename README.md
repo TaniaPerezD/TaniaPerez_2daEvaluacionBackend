@@ -27,7 +27,8 @@ Esta extensión para **PocketBase**, escrita en **Go**, funciona como una capa i
 ---
 
 ## Para correr el proyecto
-go mod tidy
-go run main.go serve
+
+- go mod tidy
+- go run main.go serve
 
 
